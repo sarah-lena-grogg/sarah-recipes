@@ -1,13 +1,12 @@
 * {
     font-family: 'Times New Roman', Times, serif;
-    background-color:white;
+    background-color: white;
     }
-
-.image {
-    width: 400px;
-    height: 400px;
-}
 
 .recipe_title {
     color: royalblue;
+}
+
+div * {
+    background-color: blanchedalmond;
 }
